@@ -2,7 +2,7 @@
 ## Project description:
 An AWS Landing-Zone is a secure, standardized environment within your AWS account that serves as a foundation for deploying workloads and applications. It's like a pre-configured staging area with guardrails in place.
 ## Architecture
-![Diagram explaining the architecture of this project](Images/landing-zone (1).svg)
+![Diagram explaining the architecture of this project](Images/landing-zone(1).svg)
 ## Why do we need to use a Landing zone?
 1. **Standardization and best practices**: Landing zone enforces best practices for security, access control, networking and
    logging.
