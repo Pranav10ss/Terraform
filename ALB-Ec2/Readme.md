@@ -6,6 +6,7 @@ The primary goal of this project is to demonstrate how to design and implement a
 3. **Scalability**: Allowing seamless handling of increased traffic by adding more EC2 instances if needed.
 4. **Network Accessibility**: Ensuring the VPC is internet-accessible using an Internet Gateway.
 ## Architecture
+![Diagram explaining the architecture of this project](Images/ELB-Ec2.svg)
 1. **Application Load Balancer (ALB)**:
    * Configured to distribute incoming HTTP traffic evenly across the EC2 instances.
    * Health checks are configured to monitor the instances' availability.
